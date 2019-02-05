@@ -1,0 +1,3 @@
+[submodule "core_client"]
+	path = core_client
+	url = https://github.com/arterialist/core_client
